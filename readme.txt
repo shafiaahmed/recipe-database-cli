@@ -1,6 +1,6 @@
 
 Database File Location:
-- The filename for the sqlite3 database is 'recipes.db' which is located in the 'Databse Folder'
+- The filename for the sqlite3 database is 'recipes.db' which is located in the 'Database Folder'
 
 
 Install Instructions:
