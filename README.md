@@ -1,10 +1,10 @@
 
 Database File Location:
-- The filename for the sqlite3 database is 'totalrecipes.db' which is located in the 'Database Folder'
+- The filename for the SQLite database is 'totalrecipes.db' which is located in the Database Folder.
 
 
 Install Instructions:
-- Ensure sqlite3 is installed. If not installed, you can download it from the [SQlite official website](https://www.sqlite.org/).
+- Ensure sqlite3 is installed. If not installed, you can download it from the [SQLite official website](https://www.sqlite.org/).
 - Ensure python3 is installed. If not installed, you can download it from the [Python official website](https://www.python.org/downloads/).
 
 
