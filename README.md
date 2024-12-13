@@ -4,8 +4,8 @@ Database File Location:
 
 
 Install Instructions:
-- Ensure sqlite3 is installed. If not installed, you can download it from the [SQlite official website](https://www.sqlite.org/)
-- Ensure python3 is installed. If not installed, you can download it from the [Python official website](https://www.python.org/downloads/)
+- Ensure sqlite3 is installed. If not installed, you can download it from the [SQlite official website](https://www.sqlite.org/).
+- Ensure python3 is installed. If not installed, you can download it from the [Python official website](https://www.python.org/downloads/).
 
 
 
