@@ -9,10 +9,16 @@
 
 
 ## Launch Instructions:
-- To launch the program, change to the directory where db_project.py is saved
-- Then enter the command:
-
-```python
+1. Clone this repository:
+```bash
+git clone https://github.com/shafiaahmed/recipe-database-cli.git
+```
+2. Navigate to the project directory:
+```bash
+cd recipe-database-cli
+```
+3. Run the program with the command:
+```bash
 python3 db_project.py
 ```
 
