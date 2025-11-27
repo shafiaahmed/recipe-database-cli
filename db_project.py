@@ -1,5 +1,5 @@
 import sqlite3
-import cmd  #for command line interface
+import cmd  # for command line interface
 
 class MyCLI(cmd.Cmd):
     def __init__(self):
@@ -24,8 +24,7 @@ class MyCLI(cmd.Cmd):
                 print(f"{recipe_id}. {title}")
 
             try:
-                choice = int(input("\n\033[1mEnter the number of the 
-recipe you want to select:\033[0m ")) # Question is bolded
+                choice = int(input("\n\033[1mEnter the number of the recipe you want to select:\033[0m ")) # Question is bolded
                 if 1 <= choice <= len(recipes): # Making sure the choice is valid
                     selected_recipe = recipes[choice - 1]
                     self.recipe_options(selected_recipe) # selected_recipe contains id, title
